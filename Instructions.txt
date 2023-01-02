@@ -1,0 +1,11 @@
+1. Instruction to Run System - php artisan serve
+
+2. Instruction to Migrate/Import Database - php artisan migrate
+
+Administrator - 
+
+Staff - 
+
+Lecturer - 
+
+Student - 
